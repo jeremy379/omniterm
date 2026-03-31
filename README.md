@@ -1,5 +1,7 @@
 > [!NOTE]
-> **This repository is an archived mirror of [`pdphilip/omniterm`](https://github.com/pdphilip/omniterm)**, which returned a 404 on GitHub. The code was recovered from a published Composer vendor snapshot. PHP namespaces and internal code are unchanged; only the Composer package name has been updated to `jeremy379/omniterm`. Original author: [David Philip](https://github.com/pdphilip).
+> ⚠️ **This package is no longer needed.** The original author [David Philip](https://github.com/pdphilip) has returned and the package is back under active maintenance at [`pdphilip/omniterm`](https://github.com/pdphilip/omniterm). Please use the official package: `composer require pdphilip/omniterm`
+>
+> This repository was created as a temporary mirror when the original returned a 404. It will be archived shortly.
 
 ---
 
