@@ -1,5 +1,5 @@
 > [!NOTE]
-> ⚠️ **This package is no longer needed.** The original author [David Philip](https://github.com/pdphilip) has returned and the package is back under active maintenance at [`pdphilip/omniterm`](https://github.com/pdphilip/omniterm). Please use the official package: `composer require pdphilip/omniterm`
+> ⚠️ **This package is no longer needed.** The original author [David Philip](https://github.com/pdphilip) has returned and the package is back under active maintenance on GitLab at [`pdphilip/omniterm`](https://gitlab.com/pdphilip/omniterm). Please use the official package: `composer require pdphilip/omniterm`
 >
 > This repository was created as a temporary mirror when the original returned a 404. It will be archived shortly.
 
